@@ -1,0 +1,17 @@
+.fonts> {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: medium;
+  font-variation-settings: "wdth" 100;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.containers{
+	max-width: 1350px;
+	padding: 0 20px;
+	margin: 0 auto;
+}
